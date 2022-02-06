@@ -68,7 +68,7 @@ for pubsource in publist:
         b = bibdata.entries[bib_id].fields
         
         try:
-            pub_year = f'{b["year"]}'
+           # pub_year = f'{b["year"]}'
 
             #todo: this hack for month and day needs some cleanup
             if "month" in b.keys(): 
@@ -87,13 +87,13 @@ for pubsource in publist:
             #pub_date = pub_year+"-"+pub_month+"-"+pub_day
             
             #strip out {} as needed (some bibtex entries that maintain formatting)
-            clean_title = b["title"].replace("{", "").replace("}","").replace("\\","").replace(" ","-")    
+           # clean_title = b["title"].replace("{", "").replace("}","").replace("\\","").replace(" ","-")    
 
             url_slug = re.sub("\\[.*\\]|[^a-zA-Z0-9_-]", "", clean_title)
-            url_slug = url_slug.replace("--","-")
+          #  url_slug = url_slug.replace("--","-")
 
-            md_filename = (str(pub_date) + "-" + url_slug + ".md").replace("--","-")
-            html_filename = (str(pub_date) + "-" + url_slug).replace("--","-")
+          #  md_filename = (str(pub_date) + "-" + url_slug + ".md").replace("--","-")
+           # html_filename = (str(pub_date) + "-" + url_slug).replace("--","-")
 
             #Build Citation from text
             citation = ""
