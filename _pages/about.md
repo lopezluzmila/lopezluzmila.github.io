@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Ejemplo I am a Junior Researcher at the World Bank in the ID4D team and Lecturer in the Department of Economics at Pontificia Universidad Católica del Perú (PUCP). I got my bachelor's degree in economics at PUCP and my Master's degree in Quantitative Economics at the University of Munich. I worked as RA in the Max Planck Institute for Innovation and Competition (MPI), MIT Sloan, and Visiting Scholar at the Laboratory for Innovation Science at Harvard (LISH). My main fields of interest are Labor Economics, Microeconometrics, and the intersection of Machine Learning and Causal Inference.
+Hello, I am an economist specialized in public budget and I have worked monitoring and providing technical assistance in main stages of the budget cyclein to entities of the three levels of government (Ministries, regional governments and local governments). My main fields of interest are Public Financial Management as a tool to implement public policies and the roles of political institutions during budgeting decisions.
 
-## Ejemplo Causal Inference and Machine Learning Book
+My inbox is always open. Whether you have a question about public buget or just want to say hi, I’ll try my best to get back to you!
+
+## Ongoing activities
 I am currently working on a [ Causal Inference and Machine Learning Bookdown](https://alexanderquispe.github.io/ml_book/), where we can see tutorials using R and Python. The main topics this book covers are: 
 
 * Prediction/Inference with High Dimensional Linear Models
