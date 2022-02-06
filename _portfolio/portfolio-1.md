@@ -4,4 +4,4 @@ excerpt: "Instituto Peruano de Asuntos Públicos, Política y Gobiernos – IPAP
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Revisión de los principios y fundamentos de las finanzas públicas en la gestión de un Estado moderno orientada a resultados, los aspectos normativos y procedimentales del Sistema Nacional de Presupuesto Público, así como los aspectos teóricos y operativos para aplicar el seguimiento y evaluación de la gestión presupuestal con el enfoque de presupuesto por resultados, analizando las medidas de gobierno y los impactos en el presupuesto en un periodo de crisis como la que venimos atravesando. 
