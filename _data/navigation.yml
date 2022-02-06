@@ -6,10 +6,10 @@ main:
   - title: "Certificates"
     url: /portfolio/
 
-  - title: "Talks"
-    url: /talks/    
+  #- title: "Talks"
+   # url: /talks/    
 
-  - title: "Teaching"
+  - title: "Scrapers"
     url: /teaching/    
         
   #- title: "Blog Posts"
