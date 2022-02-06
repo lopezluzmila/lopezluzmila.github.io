@@ -14,4 +14,9 @@ My inbox is always open. Whether you have a question about public buget or just 
 
 ## Ongoing activities
 I'm currently working in the Public Budget Unit of the Ministry of Education providing technical assistance in budgetary matters to Public Universities and SUNEDU in line with the objectives of the National Policy for Higher and Technical-Productive Education by 2030 (PNESTP).
+
 In addition, I'm studying a specialization in data sciences for social sciences and public management.
+
+## Skills
+Programming: Python, R
+Other:: Stata, GitHub
