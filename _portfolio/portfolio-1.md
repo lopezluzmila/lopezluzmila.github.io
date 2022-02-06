@@ -1,5 +1,5 @@
 ---
-title: "Diplomado en Presupuesto público"
+title: "Diplomado en Presupuesto Público"
 excerpt: "Instituto Peruano de Asuntos Públicos, Política y Gobiernos – IPAPPG / Del 16-May al 25-Julio del año 2021 (220 horas) <br/><img src='/images/presupuesto.png'>"
 collection: portfolio
 ---
