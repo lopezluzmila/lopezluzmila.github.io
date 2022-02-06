@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I'm an economist specialized in public budget and I have worked monitoring and providing technical assistance in main stages of the budget cyclein to entities of the three levels of government (Ministries, regional governments and local governments). My main fields of interest are Public Financial Management as a tool to implement public policies and the roles of political institutions during budgeting decisions.
+Hello, I'm an economist specialized in public budget and I've worked monitoring and providing technical assistance in main stages of the budget cyclein to entities of the three levels of government (Ministries, regional governments and local governments). My main fields of interest are Public Financial Management as a tool to implement public policies and the roles of political institutions during budgeting decisions.
 
 My inbox is always open. Whether you have a question about public buget or just want to say hi, I’ll try my best to get back to you!
 
@@ -18,5 +18,7 @@ I'm currently working in the Public Budget Unit of the Ministry of Education pro
 In addition, I'm studying a specialization in data sciences for social sciences and public management.
 
 ## Skills
+
 Programming: Python, R
+
 Other:: Stata, GitHub
