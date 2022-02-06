@@ -1,20 +1,6 @@
 ---
-title: "Teaching experience 1"
+title: "ONPE"
+excerpt: "[Script](https://github.com/raulsedano2410/Scraper-www.contraloria.gob.pe/blob/main/Scraper_Contraloria.ipynb): We extract information about corruption cases in Perú from 2015 to 2020."
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+[Script](https://github.com/raulsedano2410/Scraper-www.contraloria.gob.pe/blob/main/Scraper_Contraloria.ipynb) : This scraper was created for the webpage of the [Contraloria General del Peru](https://appbp.contraloria.gob.pe/BuscadorCGR/Informes/Avanzado.html). We have created a function to extract criminal reports for a given year-region in Peru.
