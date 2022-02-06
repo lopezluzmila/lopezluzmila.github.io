@@ -2,21 +2,21 @@
 main:
   - title: "CV"
     url: /files/CV_Luzmila_Lopez.pdf
-
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
     
-  - title: "Portfolio"
+  - title: "Certificates"
     url: /portfolio/
+
+  #- title: "Talks"
+   # url: /talks/    
+
+  - title: "Scrapers"
+    url: /teaching/    
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  #- title: "Blog Posts"
+   # url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+  #- title: "CV"
+   # url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
+  #- title: "Guide"
+   # url: /markdown/
