@@ -1,20 +1,5 @@
 ---
-title: "Teaching experience 2"
+title: "SUNEDU"
+excerpt: "[Script](https://github.com/lopezluzmila/Scraper_SUNEDU/blob/main/Scraper_SUNEDU.ipynb): I created an scraper for the Legacy Obituaries webpage to extract information about Professors from all Universities in the USA who died between 2000-2015. This was part of a research project of the Max Planck Institute for Innovation and Competition. "
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
