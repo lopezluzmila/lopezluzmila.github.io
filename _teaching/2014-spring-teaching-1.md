@@ -1,6 +1,6 @@
 ---
-title: "ONPE"
-excerpt: "[Script](https://github.com/lopezluzmila/Scraper_ONPE/blob/main/Scraper_ONPE.ipynb): National Office of Electoral Processes (ONPE)."
+title: "Foreign results of the General Elections 2021 process"
+excerpt: "[Script](https://github.com/lopezluzmila/Scraper_ONPE/blob/main/Scraper_ONPE.ipynb): Scraping of National Office of Electoral Processes (ONPE)'s web."
 
 collection: Scrapers
 ---
