@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/presupuesto.png'>"
+title: "Diplomado en Presupuesto público"
+excerpt: "Instituto Peruano de Asuntos Públicos, Política y Gobiernos – IPAPPG / Del 16-May al 25-Julio del año 2021 (220 horas) <br/><img src='/images/presupuesto.png'>"
 collection: portfolio
 ---
 
