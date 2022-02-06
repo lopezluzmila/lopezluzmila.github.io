@@ -84,7 +84,7 @@ for pubsource in publist:
                 pub_day = str(b["day"])
 
                 
-            pub_date = pub_year+"-"+pub_month+"-"+pub_day
+            #pub_date = pub_year+"-"+pub_month+"-"+pub_day
             
             #strip out {} as needed (some bibtex entries that maintain formatting)
             clean_title = b["title"].replace("{", "").replace("}","").replace("\\","").replace(" ","-")    
@@ -100,7 +100,7 @@ for pubsource in publist:
 
             #citation authors - todo - add highlighting for primary author?
             for author in bibdata.entries[bib_id].persons["author"]:
-                citation = citation+" "+author.first_names[0]+" "+author.last_names[0]+", "
+                # citation = citation+" "+author.first_names[0]+" "+author.last_names[0]+", "
 
             #citation title
             citation = citation + "\"" + html_escape(b["title"].replace("{", "").replace("}","").replace("\\","")) + ".\""
@@ -109,7 +109,7 @@ for pubsource in publist:
             venue = publist[pubsource]["venue-pretext"]+b[publist[pubsource]["venuekey"]].replace("{", "").replace("}","").replace("\\","")
 
             citation = citation + " " + html_escape(venue)
-            citation = citation + ", " + pub_year + "."
+            #citation = citation + ", " + pub_year + "."
 
             
             ## YAML variables
